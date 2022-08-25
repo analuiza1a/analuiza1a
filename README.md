@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @analuiza1a
+- 👀 I’m interested in art and games
+- 🌱 I’m currently learning how to draw
+- 📫 this is me, hi.
