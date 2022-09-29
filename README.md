@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @analuiza1a
-- 👀 I’m interested in art and games
-- 🌱 I’m currently learning how to draw
-- 📫 this is me, hi.
+- 👋 olá, eu sou @analuiza1a
+- 👀 estou interessada em arte e games
+- 🌱 estou aprendendo a programar
+- meu email de contato é ana.landim@escola.pr.gov.br
+- essa sou eu.
